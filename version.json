@@ -1,6 +1,18 @@
 {
-  "version": "1.2.0",
-  "published_at": "2026-11-17T13:44:21+00:00",
-  "notes": "飞书同步：远端非法值拒收并在该行「同步备注」说明原因，改对后自动同步并清除备注；复制行/编号缺失/飞书删行都会自动补全（只补不删）。修复 Windows 检查更新 DNS 解析失败，新增 CDN 备源与系统代理支持。",
-  "url": "https://github.com/jzgcoder666/stock_yy/releases/tag/v1.2.0"
+  "version": "1.3.0",
+  "published_at": "2026-11-18T02:08:37+00:00",
+  "notes": "**Full Changelog**: https://github.com/jzgcoder666/stock_yy/compare/v1.2.0...v1.3.0",
+  "url": "https://github.com/jzgcoder666/stock_yy/releases/tag/v1.3.0",
+  "assets": {
+    "windows": {
+      "name": "stock_yy.exe",
+      "size": 31303510,
+      "sha256": "83131ba7724876cac2c767661499d9b3e260739f87a60c1a0a171a1832870c5a"
+    },
+    "macos": {
+      "name": "stock_yy-macos.zip",
+      "size": 28371973,
+      "sha256": "39ece70210557cf8046a950f25a7e970944cd98d70bace6ba96a13b8efeb863b"
+    }
+  }
 }
