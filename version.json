@@ -1,7 +1,7 @@
 {
   "version": "1.3.0",
   "published_at": "2026-11-18T02:08:37+00:00",
-  "notes": "**Full Changelog**: https://github.com/jzgcoder666/stock_yy/compare/v1.2.0...v1.3.0",
+  "notes": "打包版支持一键更新：设置 → 关于与更新点「下载并安装」，自动下载、校验 SHA-256、退出替换并重启，失败保留旧版本。下载需只读令牌（设置页填写）。从 1.2.0 升级请先手动装一次本版。",
   "url": "https://github.com/jzgcoder666/stock_yy/releases/tag/v1.3.0",
   "assets": {
     "windows": {
